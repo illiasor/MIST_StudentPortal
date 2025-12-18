@@ -9,15 +9,17 @@
 - **Налаштування:** Темна тема та зміна мови (UA/EN).
 
 ## Скріншоти
-![Головний екран](assets\home_screenshot.png)
-![Екран завдань](assets\tasks_screenshot.png)
-![Профіль користувача](assets\profile_screenshot.png)
-![Екран зродов'я](assets\health_screenshot.png)
+<p float="left">
+  <img src="assets/home_screenshot.png" width="200" />
+  <img src="assets/tasks_screenshot.png" width="200" /> 
+  <img src="assets/profile_screenshot.png" width="200" />
+  <img src="assets/health_screenshot.png" width="200" />
+</p>
 
 ## Встановлення
 1. Клонуйте репозиторій:
    ```bash
-   git clone [https://github.com/illiasor/MIST_StudentPortal.git](https://github.com/illiasor/MIST_StudentPortal.git)
+   git clone https://github.com/illiasor/MIST_StudentPortal.git
 2. Відкрийте проєкт у VS Code або Android Studio.
 3. Запустіть команду flutter pub get.
 4. Запустіть додаток на емуляторі.
