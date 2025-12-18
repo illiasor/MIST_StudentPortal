@@ -1,16 +1,23 @@
-# student_portal
+# Student Portal App
 
-A new Flutter project.
+Мобільний додаток для студентів, розроблений на Flutter. Допомагає організувати навчальний процес, слідкувати за дедлайнами та підтримувати корисні звички.
 
-## Getting Started
+## Функціонал
+- **Профіль:** Перегляд даних студента (група, спеціальність).
+- **Дедлайни:** Список завдань з прив'язкою до предметів.
+- **Здоров'я:** Трекер води та перерв для очей.
+- **Налаштування:** Темна тема та зміна мови (UA/EN).
 
-This project is a starting point for a Flutter application.
+## Скріншоти
+![Головний екран](assets\home_screenshot.png)
+![Екран завдань](assets\tasks_screenshot.png)
+![Профіль користувача](assets\profile_screenshot.png)
+![Екран зродов'я](assets\health_screenshot.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Встановлення
+1. Клонуйте репозиторій:
+   ```bash
+   git clone [https://github.com/illiasor/MIST_StudentPortal.git](https://github.com/illiasor/MIST_StudentPortal.git)
+2. Відкрийте проєкт у VS Code або Android Studio.
+3. Запустіть команду flutter pub get.
+4. Запустіть додаток на емуляторі.
